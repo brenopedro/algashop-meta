@@ -7,3 +7,6 @@
 	path = docs
 	url = https://github.com/brenopedro/algashop-docs.git
 	branch = main
+[submodule "microservices/billing"]
+	path = microservices/billing
+	url = https://github.com/brenopedro/algashop-billing.git
