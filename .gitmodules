@@ -11,3 +11,7 @@
 	path = microservices/billing
 	url = https://github.com/brenopedro/algashop-billing.git
 	branch = main
+[submodule "microservices/product-catalog"]
+	path = microservices/product-catalog
+	url = https://github.com/brenopedro/algashop-product.git
+	branch = main
