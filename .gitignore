@@ -40,5 +40,3 @@ out/
 *.mv.db
 *.trace.db
 
-### java ###
-*.jar
