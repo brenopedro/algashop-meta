@@ -15,3 +15,7 @@
 	path = microservices/product-catalog
 	url = https://github.com/brenopedro/algashop-product.git
 	branch = main
+[submodule "template"]
+	path = template
+	url = https://github.com/brenopedro/algashop-template.git
+	branch = main
